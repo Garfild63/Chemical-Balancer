@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Balancer</string>
+    <string name="title_activity_main">MAIN_ACTIVITY</string>
+    <string name="buttonName">Рассчитать!</string>
+    <string name="invalidEquation">Неверное уравнение</string>
+    <string name="testEquation">H2SO4+NH3*H2O=(NH4)2SO4+H2O</string>
+</resources>
